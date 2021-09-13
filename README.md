@@ -1,8 +1,5 @@
 ### Hi there 👋, I am Aayush Pagare
 #### I am a student currently pursuing my undergraduate in Computer Science and Engineering
-I like Problem Solving, Competitive Programming and developing new projects. 
-
-- 🌱 I’m currently learning Web Development and Data Science and focusing on my Problem Solving skills  
 - 📫 Reach Me : aayushpagare21@gmail.com 
 &nbsp; 
 &nbsp; 
