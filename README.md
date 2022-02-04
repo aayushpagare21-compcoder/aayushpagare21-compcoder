@@ -13,7 +13,9 @@
  
 
 #### WEB DEVELOPMENT (SERVER SIDE) :   
-![](https://img.shields.io/badge/_php_-informational?style=flat&logo=php&logoColor=white&color=800080) &nbsp; &nbsp; ![](https://img.shields.io/badge/_mysql_-informational?style=flat&logo=mysql&logoColor=white&color=3e295c) &nbsp; &nbsp; ![](https://img.shields.io/badge/_xampp_-informational?style=flat&logo=xampp&logoColor=white&color=FF7F50)
+![](https://img.shields.io/badge/_php_-informational?style=flat&logo=php&logoColor=white&color=800080) &nbsp; &nbsp; ![](https://img.shields.io/badge/_mysql_-informational?style=flat&logo=mysql&logoColor=white&color=3e295c) &nbsp; &nbsp; ![](https://img.shields.io/badge/_xampp_-informational?style=flat&logo=xampp&logoColor=white&color=FF7F50) 
+&nbsp; &nbsp; ![](https://img.shields.io/badge/_Java_-informational?style=flat&logo=java&logoColor=white&color=3e295c)
+
 
  
 #### PROBLEM SOLVING : 
