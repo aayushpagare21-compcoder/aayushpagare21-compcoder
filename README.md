@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Aayush Pagare
-#### I am a student currently pursuing my undergraduate in Computer Science and Engineering and also a Competitive Programmer and a Full Stack Web Developer
+#### A Software Enginner 
 - 📫 Reach Me : aayushpagare21@gmail.com 
 &nbsp; 
 &nbsp; 
