@@ -8,7 +8,9 @@ With 1.6 years of experience in software engineering, I specialize in web develo
 - 📖 Read my blogs at: https://medium.com/@aayushpagare21
 
 ## SKILLS
-### [![My Skills](https://skillicons.dev/icons?i=ts,js,nest,express,react,postgres,mongodb,jest,prisma,docker,snowflake,dbt)](https://skillicons.dev)
+### Proficent: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=ts,js,nest,express,postgres,prisma,jest)](https://skillicons.dev)
+### Basics: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=react,mongo,docker)](https://skillicons.dev)
+### Exploring: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=redux,redis,rabbitmq,aws)](https://skillicons.dev)
 
 &nbsp; 
 &nbsp; 
