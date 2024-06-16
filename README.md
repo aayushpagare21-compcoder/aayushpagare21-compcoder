@@ -6,7 +6,7 @@ Throughout my career, I've benefited from mentorship by seasoned professionals w
 
 Looking forward, I'm keen to explore machine learning and apply my skills in startup environments. I thrive in dynamic teams where I can contribute to the development of new products and innovate alongside talented colleagues.
 
-Additionally, I am enthusiastic about remote work and collaborative opportunities worldwide, eager to contribute to impactful projects irrespective of geographical boundaries."
+Additionally, I am enthusiastic about remote work and collaborative opportunities worldwide, eager to contribute to impactful projects irrespective of geographical boundaries.
 
 - 📫 Reach Me : aayushpagare21@gmail.com
 - 📞 Call at : 9537584862
