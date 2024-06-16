@@ -13,9 +13,12 @@ Additionally, I am enthusiastic about remote work and collaborative opportunitie
 - 📖 Read my blogs at: https://medium.com/@aayushpagare21
 
 ## SKILLS
-### Proficent: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=ts,js,nest,express,postgres,prisma,jest)](https://skillicons.dev)
-### Basics: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=react,mongo,docker)](https://skillicons.dev)
-### Exploring: &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=redux,redis,rabbitmq,aws)](https://skillicons.dev)
+### Proficent: 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nest,express,postgres,prisma,jest)](https://skillicons.dev)
+### Basics:
+[![My Skills](https://skillicons.dev/icons?i=react,mongo,docker)](https://skillicons.dev)
+### Exploring: 
+[![My Skills](https://skillicons.dev/icons?i=redux,redis,rabbitmq,aws)](https://skillicons.dev)
 
 &nbsp; 
 &nbsp; 
