@@ -4,7 +4,7 @@ With 1.6 years of experience in software engineering, I specialize in web develo
 
 Throughout my career, I've benefited from mentorship by seasoned professionals with over 7+ years of industry experience. This guidance has been instrumental in my growth, as I've had the opportunity to train interns and refine my skills in Agile methodologies, ensuring efficient and collaborative project execution.
 
-Looking forward, I'm keen to explore machine learning and apply my skills in startup environments. I thrive in dynamic teams where I can contribute to the development of new products and innovate alongside talented colleagues.
+Looking forward, I'm keen to be a Founding Engineer and apply my skills in startup environments. I thrive in dynamic teams where I can contribute to the development of new products and innovate alongside talented colleagues.
 
 Additionally, I am enthusiastic about remote work and collaborative opportunities worldwide, eager to contribute to impactful projects irrespective of geographical boundaries.
 
