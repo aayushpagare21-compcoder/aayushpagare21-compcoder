@@ -1,5 +1,6 @@
-Hey, I'm Aayush 👋
-I'm a full-stack developer by day and a technical writer by night.
+# Hey, I'm Aayush 👋
+
+### I'm a full-stack developer by day and a technical writer by night.
 
 I worked as a Software Developer at [Matlabinfotech](https://www.matlabinfotech.com) for 1 year and 9 months, where I gained experience in technologies like Nest.js, React.js, PostgreSQL, Prisma, Snowflake, DBT, and Jest. I also contributed to an exciting project, developing a Slack bot to automate workflows within the company.
 
