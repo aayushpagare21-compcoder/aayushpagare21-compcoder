@@ -1,25 +1,56 @@
-# Hey, I'm Aayush 👋
+## 🚀 Aayush Pagare | Full-Stack Engineer  
+🌍 Building scalable web applications | AI Integrations | End-to-End Development  
 
-### I'm a full-stack developer by day and a technical writer by night.
+---
 
-I worked as a Software Developer at [Matlabinfotech](https://www.matlabinfotech.com) for 1 year and 9 months, where I gained experience in technologies like Nest.js, React.js, PostgreSQL, Prisma, Snowflake, DBT, and Jest. I also contributed to an exciting project, developing a Slack bot to automate workflows within the company.
+## 👋 About Me  
+I'm a **Full-Stack Engineer** with **2 years of experience** in developing and deploying production-grade web applications. I specialize in **building web apps from backend to frontend, integrating AI, and deploying at scale**.  
 
-During weekends, my fascination with Docker inspired me to build a remote code execution project, exploring containerization and secure execution environments.
+ 🔹 Passionate about clean, maintainable code.  
+ 🔹 Experienced in rapid prototyping & MVP development.  
+ 🔹 Strong focus on **AI, automation, and scalable architecture**.  
 
-Wanting to build an app end-to-end and explore Generative AI technologies, I created AspirantsAI. Using the Next.js framework, I handled everything from frontend and backend development to database management and deployment.
+---
 
-I write technical blogs to share insights, document learnings, and contribute to the developer community. Check my [medium](https://medium.com/@aayushpagare21) profile.
+## 🛠 What I Offer  
+✅ **End-to-End Development** – Backend APIs to sleek frontend interfaces.  
+✅ **AI Integration** – Seamlessly incorporating AI tools into applications.  
+✅ **Rapid Prototyping** – Quickly turning ideas into functional MVPs.  
+✅ **Production-Grade Systems** – Delivering robust and scalable solutions.  
 
-I am enthusiastic about remote work and collaborative opportunities worldwide, eager to contribute to impactful projects irrespective of geographical boundaries.
+---
 
-- 📫 Reach Me : aayushpagare21@gmail.com
-- 📞 Call at : (+91) 9537584862
+## 🧑‍💻 How I Work  
+☑️ **Test-Driven Development (TDD)** – Writing reliable, maintainable code.  
+☑️ **Collaboration** – Engaging in PR reviews, pair programming, and clear communication.  
+☑️ **Ownership & Delivery** – Taking full responsibility for my work with a focus on **quality and performance**.  
 
-## SKILLS
-### Proficent: 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,nest,postgres,prisma,jest,vercel)](https://skillicons.dev)
+---
 
-&nbsp; 
-&nbsp; 
+## 🛠 Tech Stack & Skills  
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushpagare21-compcoder&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+### 🚀 Core Technologies  
+✔️ **LangchainJS**, AWS Textract, GeminiAI  
+✔️ **Next.js**, ShadCN  
+✔️ **Nest.js**, Express.js, Node.js  
+✔️ **React.js**, TailwindCSS, Material UI  
+
+### 📦 Databases & ORM  
+✔️ **PostgreSQL**, **MongoDB**, Snowflake  
+✔️ **Prisma**, Mongoose  
+✔️ **DBT Cloud**, Neondb  
+
+### 🔹 DevOps & Deployment  
+✔️ **Docker**, AWS EC2, Vercel  
+✔️ **Redis**, RabbitMQ (Microservices)  
+
+### 🛠 Testing & Automation  
+✔️ **Jest**, React Testing Library  
+✔️ **n8n**, Slack API (Workflow Automation)  
+
+---
+
+## 📫 Connect with Me  
+💻 **Portfolio:** [aayushpagare.com](https://www.aayushpagare.com/)  
+📧 **Email:** [aayushpagare21@gmail.com](mailto:aayushpagare21@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/aayush-pagare-5817a81aa](https://www.linkedin.com/in/aayush-pagare-5817a81aa/)
