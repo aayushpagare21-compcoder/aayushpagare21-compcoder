@@ -39,7 +39,7 @@ I'm a **Full-Stack Engineer** with **2 years of experience** in developing and d
 🔹 **NoSQL:** MongoDB  
 🔹 **ORMs & Data Tools:** Prisma, Mongoose, DBT Cloud  
 
-### 🔹 DevOps & Deployment  
+### 🚀 DevOps & Deployment  
 🔹 **Containerization & Cloud:** Docker, AWS EC2, Vercel  
 🔹 **Messaging & Caching:** Redis, RabbitMQ (Microservices)  
 
