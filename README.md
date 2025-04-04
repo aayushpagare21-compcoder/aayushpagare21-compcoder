@@ -30,23 +30,24 @@ I'm a **Full-Stack Engineer** with **2 years of experience** in developing and d
 ## 🛠 Tech Stack & Skills  
 
 ### 🚀 Core Technologies  
-✔️ **LangchainJS**, AWS Textract, GeminiAI  
-✔️ **Next.js**, ShadCN  
-✔️ **Nest.js**, Express.js, Node.js  
-✔️ **React.js**, TailwindCSS, Material UI  
+🔹 **Frontend:** Next.js, React.js, ShadCN, TailwindCSS, Material UI  
+🔹 **Backend:** Nest.js, Express.js, Node.js  
+🔹 **AI & Automation:** LangchainJS, AWS Textract, GeminiAI, n8n, Slack API  
 
 ### 📦 Databases & ORM  
-✔️ **PostgreSQL**, **MongoDB**, Snowflake  
-✔️ **Prisma**, Mongoose  
-✔️ **DBT Cloud**, Neondb  
+🔹 **Relational:** PostgreSQL, Snowflake, Neondb  
+🔹 **NoSQL:** MongoDB  
+🔹 **ORMs & Data Tools:** Prisma, Mongoose, DBT Cloud  
 
 ### 🔹 DevOps & Deployment  
-✔️ **Docker**, AWS EC2, Vercel  
-✔️ **Redis**, RabbitMQ (Microservices)  
+🔹 **Containerization & Cloud:** Docker, AWS EC2, Vercel  
+🔹 **Messaging & Caching:** Redis, RabbitMQ (Microservices)  
 
-### 🛠 Testing & Automation  
-✔️ **Jest**, React Testing Library  
-✔️ **n8n**, Slack API (Workflow Automation)  
+### 💳 Payment Gateway Integration  
+🔹 **PhonePe Payment Gateway**  
+
+### 🛠 Testing & QA  
+🔹 **Testing Frameworks:** Jest, React Testing Library  
 
 ---
 
